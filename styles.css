@@ -45,7 +45,7 @@ nav{
 
 header{
     margin-top: 69px;
-    background-image: url(https://amandium7.github.io/thecatsmeow.github.io/img-mission-background.jpeg);
+    background-image: url("https://amandium7.github.io/thecatsmeow.github.io/img-mission-background.jpeg");
     height: 700px;
     width: 100%;
     background-size: cover;
@@ -107,7 +107,7 @@ header{
 
 
 .test{
-    background-image: url(https://amandium7.github.io/thecatsmeow.github.io/img-locations-background.jpeg);
+    background-image: url("https://amandium7.github.io/thecatsmeow.github.io/img-locations-background.jpeg");
     background-size: cover;
     height: 500px;
     background-repeat: no-repeat;
